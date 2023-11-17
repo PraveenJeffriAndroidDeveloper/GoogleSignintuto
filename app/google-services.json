@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1080351892613",
+    "project_id": "signin-edaec",
+    "storage_bucket": "signin-edaec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080351892613:android:7807f7d3c956862f0275ec",
+        "android_client_info": {
+          "package_name": "com.example.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080351892613-2hdgsdbn1gb4kr0f7lppj83u3ban51gn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMuOlJWPCV-tHo0jOlx5jquI2pUu5TFGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080351892613-2hdgsdbn1gb4kr0f7lppj83u3ban51gn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
